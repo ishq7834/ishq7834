@@ -27,13 +27,6 @@
 
 ---
 
-## 📊 Projects
-- 📌 Sales Data Analysis (SQL + Excel)  
-- 📌 Customer Churn Analysis  
-- 📌 Power BI Dashboard  
-
----
-
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishq7834&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
