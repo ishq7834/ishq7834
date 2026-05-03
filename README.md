@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Ishika  
 
-<!--
-**ishq7834/ishq7834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=ishq7834&label=Profile%20views&color=0e75b6&style=flat)
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Turning+Data+into+Insights&center=true&width=500&height=50)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💫 About Me
+- 💻 Data Analyst with 1 year of experience  
+- 📊 Skilled in SQL, Excel, Python & Power BI  
+- 📈 Passionate about data analysis & visualization  
+- 🌱 Currently improving advanced analytics skills  
+
+---
+
+## 🚀 Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=sql" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+---
+
+## 📊 Projects
+- 📌 Sales Data Analysis (SQL + Excel)  
+- 📌 Customer Churn Analysis  
+- 📌 Power BI Dashboard  
+
+---
+
+## 📈 GitHub Stats
+![Ishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishq7834&show_icons=true&theme=default)
+
+---
+
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishq7834&layout=compact)
+
+---
+
+## 🌐 Connect with me
+<p>
+  <a href="https://www.linkedin.com/in/ishika-waghela/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
