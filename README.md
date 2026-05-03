@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ishika  
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ishika  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ishq7834&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -16,12 +16,11 @@
 
 ## 🚀 Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=sql" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=python,github" />
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
@@ -36,12 +35,12 @@
 ---
 
 ## 📈 GitHub Stats
-![Ishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishq7834&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishq7834&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
 ## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishq7834&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishq7834&layout=compact&theme=tokyonight)
 
 ---
 
