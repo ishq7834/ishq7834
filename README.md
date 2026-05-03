@@ -55,7 +55,7 @@
 
 ## 🌐 Connect with me
 <p>
-  <a href="https://www.linkedin.com/in/ishika-waghela/" target="_blank">
+  <a href="https://www.linkedin.com/in/ishika-waghela/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
