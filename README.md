@@ -15,11 +15,31 @@
 ---
 
 ## 🚀 Skills
+
+### 🧠 Programming & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=python,github" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
 </p>
 
+### 📊 Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-005571?style=for-the-badge&logo=tableau"/>
+</p>
 
+### 📚 Libraries & Tools
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Seaborn-9cf?style=for-the-badge"/>
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
 
 ---
 
