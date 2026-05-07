@@ -72,12 +72,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ishq7834&theme=github-dark&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect with me
 <p>
   <a href="https://www.linkedin.com/in/ishika-waghela/">
