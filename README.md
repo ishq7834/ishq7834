@@ -59,19 +59,17 @@
 
   <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
 ---
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishq7834&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishq7834&theme=github_dark" />
   
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ishq7834&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ishq7834&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
-
 ## 🌐 Connect with me
 <p>
   <a href="https://www.linkedin.com/in/ishika-waghela/">
