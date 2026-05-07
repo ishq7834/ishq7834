@@ -19,7 +19,7 @@
 ### 🧠 Programming & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
-</p>
+</p> 
 
 ---
 
