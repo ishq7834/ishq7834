@@ -60,18 +60,19 @@
   <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
-
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishq7834&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishq7834&theme=github_dark" />
 </p>
 
 ---
 
 ## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishq7834&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishq7834&theme=github_dark" />
+</p>
 
 ---
 
