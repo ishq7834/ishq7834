@@ -65,9 +65,21 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishq7834&show_icons=true&theme=github_dark&hide_border=true" />
-  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishq7834&theme=github_dark" />
+</p>
+
+---
+
+## 🔥 Most Used Languages
+
+<p align="center">
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ishq7834&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ishq7834&theme=github-dark&hide_border=true" />
 </p>
 
 ---
